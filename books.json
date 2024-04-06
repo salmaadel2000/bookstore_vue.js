@@ -1,0 +1,59 @@
+{
+    "books":[{
+      "id": 1,
+      "author": "salma",
+      "category": "romance",
+      "pages": 220,
+      "price": 200,
+      "image": "img/download (1).jpg",
+      "flag": true
+    },
+    {
+      "id": 2,
+      "author": "yousef",
+      "category": "Homour",
+      "pages": 200,
+      "price": 250,
+      "image": "img/download (2).jpg",
+      "flag": true
+    },
+    {
+      "id": 3,
+      "author": "mariam",
+      "category": "Romantic",
+      "pages": 300,
+      "price": 500,
+      "image": "img/download (3).jpg",
+      "flag": true
+    },
+    {
+      "id": 4,
+      "author": "adel",
+      "category": "comedy",
+      "pages": 220,
+      "price": 200,
+      "image": "img/download (4).jpg",
+      "flag": true
+    },
+    {
+      "id": 5,
+      "author": "aya",
+      "category": "comedy",
+      "pages": 230,
+      "price": 220,
+      "image": "img/download (4).jpg",
+      "flag": true
+    },
+    {
+      "id": 6,
+      "author": "mostafa",
+      "category": "comedy",
+      "pages": 220,
+      "price": 200,
+      "image": "img/images (1).jpg",
+      "flag": true
+    }
+]
+}
+  
+  
